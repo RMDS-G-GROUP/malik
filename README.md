@@ -1,7 +1,6 @@
 # H1N1 Vaccine Allocation Challenge — Dataset B
 
-**University of Hertfordshire · MSc Data Science · Research Methods Group Challenge**  
-**Hackathon:** 11 November 2026 · **Presentation:** 17 November 2026
+**University of Hertfordshire
 
 > **Research question:** Can we predict H1N1 vaccine uptake and use those predictions to allocate vaccines at a lower estimated total cost to the town?
 
@@ -168,7 +167,6 @@ Running in Colab requires the dataset files to be available in the active runtim
 - Most model steps use `random_state=42`; the notebook documents model choices, preprocessing and figures.
 - Each team member should contribute through their own GitHub account and record meaningful commits.
 - Keep evidence of discussions, model decisions, testing and shared Colab editing.
-- Presentation: **10 minutes + 5 minutes of questions**, including EDA, models, validation, costs, XAI, limitations, teamwork, and a **non-technical stakeholder summary**.
 - The presentation's first slide must link to the GitHub organisation and shared Colab notebook.
 
 **Links to complete before submission:**
